@@ -12,3 +12,4 @@ composer.phar
 flightphp-velt-*
 .env
 src/env.d.ts
+*.sublime-workspace
