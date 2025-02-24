@@ -38,7 +38,7 @@
       <Link to="./">Home</Link>
       <Link to="./about">About</Link>
       {#if loggedUser.isLogged}
-        <a href="./logout">Logout</a>
+        <a href="./logout">Logout?</a>
       {:else}
         <Link to="./login">Login</Link>
       {/if}

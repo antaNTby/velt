@@ -13,7 +13,7 @@ export const commonOptions = {
     '.woff': 'copy',
     '.woff2': 'copy'
   },
-  outfile: 'app/build/bundle.js',
+  outfile: 'app/build/bundle2025.js',
   target: ['es2018'],
   plugins: [sveltePlugin({})],
   conditions: ['main']
